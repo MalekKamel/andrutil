@@ -31,6 +31,28 @@ public final class MyApp extends Application{
 }
 ```
 
+# Available Utils:
+DrawableUtil
+VectorDrawableUtil
+ActivityUtil
+BackStackUtil
+BottomNavigationViewUtil
+Callback
+DateUtil
+DiskStorageUtil
+FragmentManagerUtil
+Func
+GsonUtil
+HtmlUtil
+KeyboardUtil
+KeyguardManagerUtil
+ObservableUtil
+PhoneUtil
+RecyclerViewUtil
+RtlConfigUtil
+SystemOverlayUtil
+WindowUtil
+
 # License
 
 ## Apache license 2.0
