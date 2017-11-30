@@ -32,6 +32,7 @@ public final class MyApp extends Application{
 ```
 
 # Available Utils:
+```
 DrawableUtil
 VectorDrawableUtil
 ActivityUtil
@@ -52,7 +53,7 @@ RecyclerViewUtil
 RtlConfigUtil
 SystemOverlayUtil
 WindowUtil
-
+```
 # License
 
 ## Apache license 2.0
