@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CompoundVectorTv">
+        <attr name="drawable_left" format="integer"/>
+        <attr name="drawable_right" format="integer"/>
+        <attr name="drawable_top" format="integer"/>
+        <attr name="drawable_bottom" format="integer"/>
+    </declare-styleable>
+</resources>
