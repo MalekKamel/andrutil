@@ -33,9 +33,8 @@ public final class MyApp extends Application{
 
 # Available Utils:
 ```
-DrawableUtil
-VectorDrawableUtil
 ActivityUtil
+AppUtil
 BackStackUtil
 BottomNavigationViewUtil
 Callback
@@ -47,12 +46,20 @@ GsonUtil
 HtmlUtil
 KeyboardUtil
 KeyguardManagerUtil
+LocaleUtil
+MediaPlayerUtil
 ObservableUtil
+PackageInfoUtil
 PhoneUtil
 RecyclerViewUtil
 RtlConfigUtil
+ServiceUtil
+SpaceItemDecoration
 SystemOverlayUtil
+ToastUtil
 WindowUtil
+VectorDrawableUtil
+DrawableUtil
 ```
 # License
 
