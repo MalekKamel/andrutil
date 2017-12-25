@@ -14,7 +14,7 @@ repositories {
 }
 
 dependencies {
-    compile 'com.sha.kamel:andrutil:0.2.2@aar'
+    compile 'com.sha.kamel:andrutil:0.13.2@aar'
 }
 ```
 
